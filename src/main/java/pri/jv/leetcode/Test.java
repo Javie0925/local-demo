@@ -22,6 +22,6 @@ public class Test {
         TreeMap<String, Integer> map = new TreeMap<>();
 
         System.out.println('0'=='0');
-
+        int[] arr = new int[10];
     }
 }

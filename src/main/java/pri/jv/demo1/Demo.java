@@ -16,6 +16,7 @@ public class Demo {
     public static void main(String[] args) throws Exception {
         ArrayList arrayList = new ArrayList();
         Queue<String> queue = new ArrayDeque<>();
+        System.out.println(Integer.toHexString(queue.hashCode()));
 
 
 
